@@ -1,0 +1,4 @@
+*.pth
+data
+*.pyc
+scripts/__pycache__
